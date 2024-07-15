@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const Poster = () => {
     return (
       <div className='Poster-container'>
