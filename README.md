@@ -4,9 +4,9 @@ This repository contains a responsive web application built with React.js and JS
 
 ## TECHNOLOGIES USED
 
--**React**
--**JSX**
--**JAVASCRIPT**
--**HTML**
--**CSS**
+- **React**
+- **JSX**
+- **JAVASCRIPT**
+- **HTML**
+- **CSS**
 
