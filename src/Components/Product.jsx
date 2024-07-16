@@ -1,6 +1,8 @@
 import React from "react"
 import Card from "./Card"
 
+//import product images
+
 import product1 from "../assets/product1.jpg" 
 import product from "../assets/product.jpg"
 import product3 from "../assets/product3.jpg"

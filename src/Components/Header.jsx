@@ -17,11 +17,11 @@ const Header = ({ productCount }) => {
       }
       window.addEventListener("scroll", handleScroll)
   
-      // Cleanup function to remove the event listener
+      //function to remove the event listener
       return () => {
         window.removeEventListener("scroll", handleScroll)
       }
-    }, []) // Empty dependency array ensures this effect runs only once
+    }, []) // Empty array ensures this effect runs only once
   
   
     return (
